@@ -65,9 +65,9 @@ public class ExpertActivity extends AppCompatActivity implements View.OnClickLis
 
         public ExpertAdapter() {
         }
-        selected
+       /* selected
         @NonNull
-        @Override
+        @Override*/
         public ExpertAdapter.ExpertViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
             View v = LayoutInflater.from(ExpertActivity.this).inflate(R.layout.item_basic, viewGroup, false);
 
