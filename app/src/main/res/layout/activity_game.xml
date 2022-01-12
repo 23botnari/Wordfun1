@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/rl_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp">
+
+                    <ImageView
+                        android:id="@+id/btn_setting"
+                        android:layout_width="@dimen/button_bg"
+                        android:layout_height="@dimen/button_bg"
+                        android:layout_marginLeft="12dp"
+                        android:src="@drawable/setting" />
+
+                    <ImageView
+                        android:id="@+id/btn_achieve"
+                        android:layout_width="@dimen/button_bg"
+                        android:layout_height="@dimen/button_bg"
+                        android:layout_marginLeft="12dp"
+                        android:src="@drawable/ic_achievement" />
+
+                    <TextView
+                        android:id="@+id/txt_level"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="12dp"
+                        android:background="@drawable/background_coins"
+                        android:fontFamily="@font/roboto_bold"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="Level"
+                        android:textColor="@color/navy"
+                        android:textSize="@dimen/button_text" />
+
+
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="12dp">
+
+                        <TextView
+                            android:id="@+id/txt_credit"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="@dimen/txt_setting"
+                            android:background="@drawable/background_dollar"
+                            android:fontFamily="@font/roboto_bold"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="000"
+                            android:textColor="@color/navy"
+                            android:textSize="@dimen/button_text" />
+
+                        <ImageView
+                            android:layout_width="@dimen/button_bg"
+                            android:layout_height="@dimen/button_bg"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/star" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="10dp"
+                        android:src="@drawable/bg_wordbox_xlarge" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_top"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_bottom"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:id="@+id/btn_ad"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="7dp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="@dimen/button"
+                                android:layout_height="@dimen/button"
+                                android:padding="5dp"
+                                android:src="@drawable/ic_ad" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:background="@drawable/background_text"
+                                android:fontFamily="@font/roboto_bold"
+                                android:gravity="center"
+                                android:paddingLeft="7dp"
+                                android:paddingRight="7dp"
+                                android:text="Ad"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/button_text" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/btn_hint"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="7dp"
+                            android:orientation="vertical">
+                          <!--  <RelativeLayout
+                            android:id="@+id/dollar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:background="@drawable/bg_hint"
+                            android:gravity="right|center_vertical"
+                            android:layout_marginLeft="@dimen/text"
+                            android:paddingRight="@dimen/text"
+                            android:paddingLeft="@dimen/button_text"
+                            android:text="100"
+                            android:textColor="@color/white" />
+
+                            <ImageView
+                            android:layout_width="@dimen/txt_setting"
+                            android:layout_height="@dimen/txt_setting"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/dollar" />
+                            </RelativeLayout>
+
+                            <ImageView
+                            android:layout_width="@dimen/button"
+                            android:layout_height="@dimen/button"
+                            android:padding="5dp"
+                            android:src="@drawable/ic_hint" />
+
+                            <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:background="@drawable/background_text"
+                            android:fontFamily="@font/roboto_bold"
+                            android:gravity="center"
+                            android:paddingLeft="7dp"
+                            android:paddingRight="7dp"
+                            android:text="Hint"
+                            android:textColor="@color/white" />
+
+                           -->
+                            <FrameLayout
+                                android:id="@+id/dollar"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_vertical"
+                                    android:layout_marginLeft="@dimen/margin_dollar"
+                                    android:layout_marginRight="@dimen/button_s"
+                                    android:background="@drawable/bg_hint"
+                                    android:fontFamily="@font/roboto_bold"
+                                    android:paddingLeft="5dp"
+                                    android:paddingRight="7dp"
+                                    android:text="100"
+                                    android:textColor="@color/white" />
+
+                                <ImageView
+                                    android:layout_width="@dimen/button_dollar"
+                                    android:layout_height="@dimen/button_dollar"
+                                    android:layout_gravity="center_vertical"
+                                    android:src="@drawable/star" />
+
+                                <ImageView
+                                    android:layout_width="@dimen/button"
+                                    android:layout_height="@dimen/button"
+                                    android:layout_gravity="center_vertical|end"
+                                    android:padding="5dp"
+                                    android:src="@drawable/ic_hint" />
+                            </FrameLayout>
+
+                            <LinearLayout
+                                android:layout_width="@dimen/button"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="right"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:background="@drawable/background_text"
+                                    android:fontFamily="@font/roboto_bold"
+                                    android:gravity="center"
+                                    android:paddingLeft="7dp"
+                                    android:paddingRight="7dp"
+                                    android:singleLine="true"
+                                    android:text="Hint"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/button_text" />
+                            </LinearLayout>
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ll_middle"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_toLeftOf="@+id/btn_hint"
+                            android:layout_toRightOf="@+id/btn_ad"
+                            android:gravity="center"
+                            android:orientation="horizontal" />
+
+
+                        <LinearLayout
+                            android:id="@+id/btn_rate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginLeft="7dp"
+                            android:layout_marginBottom="7dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:background="@drawable/background_text"
+                                android:fontFamily="@font/roboto_bold"
+                                android:gravity="center"
+                                android:paddingLeft="7dp"
+                                android:paddingRight="7dp"
+                                android:text="Rate"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/button_text" />
+
+                            <ImageView
+                                android:layout_width="@dimen/button"
+                                android:layout_height="@dimen/button"
+                                android:padding="5dp"
+                                android:src="@drawable/ic_rate" />
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true">
+                        <com.games.wordfun.view.CircularLayout
+                            android:id="@+id/circular_layout"
+                            android:layout_width="@dimen/radius"
+                            android:layout_height="@dimen/radius"
+                            android:background="@drawable/bg_circle" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/btn_shuffle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginRight="7dp"
+                            android:layout_marginBottom="7dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:background="@drawable/background_text"
+                                android:fontFamily="@font/roboto_bold"
+                                android:gravity="center"
+                                android:paddingLeft="7dp"
+                                android:paddingRight="7dp"
+                                android:text="Reset"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/button_text" />
+
+                            <ImageView
+                                android:layout_width="@dimen/button"
+                                android:layout_height="@dimen/button"
+                                android:padding="5dp"
+                                android:src="@drawable/ic_shuffle" />
+                        </LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

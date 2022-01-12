@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.games.wordfun">
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.games.wordfun.WApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/adMob_application_id"/>
+        <activity
+            android:name="com.games.wordfun.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.games.wordfun.ExpertActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.games.wordfun.InterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.games.wordfun.BasicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.games.wordfun.AchieveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.games.wordfun.MainActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.games.wordfun.GameActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

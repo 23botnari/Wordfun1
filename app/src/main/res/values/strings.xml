@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Fun</string>
+    <string name="level">Level %d</string>
+
+        <!--Admob Test ads replace with live ids-->
+        <string name="adMob_application_id">ca-app-pub-3940256099942544~3347511713</string>
+        <string name="admob_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

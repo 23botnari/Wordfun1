@@ -1,0 +1,402 @@
+[
+  {
+    "level_id": 51,
+    "phrase": "efli",
+    "word1": "life",
+    "word2": "lief",
+    "word3": "lie",
+    "word4": "file"
+  },
+  {
+    "level_id": 52,
+    "phrase": "eacr",
+    "word1": "ace",
+    "word2": "acre",
+    "word3": "care",
+    "word4": "race"
+  },
+  {
+    "level_id": 53,
+    "phrase": "intap",
+    "word1": "paint",
+    "word2": "pin",
+    "word3": "pain",
+    "word4": "nap"
+  },
+  {
+    "level_id": 54,
+    "phrase": "tare",
+    "word1": "rate",
+    "word2": "ear",
+    "word3": "tea",
+    "word4": "tear"
+  },
+  {
+    "level_id": 55,
+    "phrase": "aetm",
+    "word1": "team",
+    "word2": "eat",
+    "word3": "meat",
+    "word4": "tea"
+  },
+  {
+    "level_id": 56,
+    "phrase": "inewn",
+    "word1": "new",
+    "word2": "nine",
+    "word3": "win",
+    "word4": "wine"
+  },
+  {
+    "level_id": 57,
+    "phrase": "arwda",
+    "word1": "award",
+    "word2": "draw",
+    "word3": "war",
+    "word4": ""
+  },
+  {
+    "level_id": 58,
+    "phrase": "aemrdr",
+    "word1": "dream",
+    "word2": "dear",
+    "word3": "read",
+    "word4": "rear"
+  },
+  {
+    "level_id": 59,
+    "phrase": "henw",
+    "word1": "hew",
+    "word2": "when",
+    "word3": "new",
+    "word4": "we"
+  },
+  {
+    "level_id": 60,
+    "phrase": "wond",
+    "word1": "now",
+    "word2": "own",
+    "word3": "won",
+    "word4": "down"
+  },
+  {
+    "level_id": 61,
+    "phrase": "stae",
+    "word1": "seat",
+    "word2": "set",
+    "word3": "ate",
+    "word4": "east"
+  },
+  {
+    "level_id": 62,
+    "phrase": "onetse",
+    "word1": "stone",
+    "word2": "tense",
+    "word3": "nose",
+    "word4": ""
+  },
+  {
+    "level_id": 63,
+    "phrase": "eswt",
+    "word1": "west",
+    "word2": "wet",
+    "word3": "set",
+    "word4": "we"
+  },
+  {
+    "level_id": 64,
+    "phrase": "ovele",
+    "word1": "leo",
+    "word2": "eve",
+    "word3": "love",
+    "word4": ""
+  },
+  {
+    "level_id": 65,
+    "phrase": "praeap",
+    "word1": "paper",
+    "word2": "area",
+    "word3": "papa",
+    "word4": ""
+  },
+  {
+    "level_id": 66,
+    "phrase": "lrvee",
+    "word1": "ever",
+    "word2": "lever",
+    "word3": "reel",
+    "word4": ""
+  },
+  {
+    "level_id": 67,
+    "phrase": "airyd",
+    "word1": "diary",
+    "word2": "dry",
+    "word3": "yard",
+    "word4": "dairy"
+  },
+  {
+    "level_id": 68,
+    "phrase": "aeartt",
+    "word1": "treat",
+    "word2": "art",
+    "word3": "attar",
+    "word4": ""
+  },
+  {
+    "level_id": 69,
+    "phrase": "hitkn",
+    "word1": "hint",
+    "word2": "hit",
+    "word3": "think",
+    "word4": "ink"
+  },
+  {
+    "level_id": 70,
+    "phrase": "alkcb",
+    "word1": "lack",
+    "word2": "back",
+    "word3": "black",
+    "word4": "lab"
+  },
+  {
+    "level_id": 71,
+    "phrase": "amref",
+    "word1": "fear",
+    "word2": "fame",
+    "word3": "frame",
+    "word4": "fare"
+  },
+  {
+    "level_id": 72,
+    "phrase": "oldad",
+    "word1": "old",
+    "word2": "load",
+    "word3": "add",
+    "word4": "odd"
+  },
+  {
+    "level_id": 73,
+    "phrase": "oudlw",
+    "word1": "would",
+    "word2": "owl",
+    "word3": "loud",
+    "word4": "duo"
+  },
+  {
+    "level_id": 74,
+    "phrase": "balbl",
+    "word1": "all",
+    "word2": "ball",
+    "word3": "blab",
+    "word4": "lab"
+  },
+  {
+    "level_id": 75,
+    "phrase": "tukcs",
+    "word1": "cut",
+    "word2": "stuck",
+    "word3": "suck",
+    "word4": ""
+  },
+  {
+    "level_id": 76,
+    "phrase": "onsw",
+    "word1": "now",
+    "word2": "own",
+    "word3": "snow",
+    "word4": "son"
+  },
+  {
+    "level_id": 77,
+    "phrase": "asgsl",
+    "word1": "slag",
+    "word2": "lag",
+    "word3": "glass",
+    "word4": "gas"
+  },
+  {
+    "level_id": 78,
+    "phrase": "onemy",
+    "word1": "one",
+    "word2": "money",
+    "word3": "men",
+    "word4": "omen"
+  },
+  {
+    "level_id": 79,
+    "phrase": "orldw",
+    "word1": "lord",
+    "word2": "owl",
+    "word3": "world",
+    "word4": "word"
+  },
+  {
+    "level_id": 80,
+    "phrase": "aphpay",
+    "word1": "hap",
+    "word2": "happy",
+    "word3": "pay",
+    "word4": "ayah"
+  },
+  {
+    "level_id": 81,
+    "phrase": "onwk",
+    "word1": "know",
+    "word2": "now",
+    "word3": "won",
+    "word4": "own"
+  },
+  {
+    "level_id": 82,
+    "phrase": "ridldl",
+    "word1": "drill",
+    "word2": "did",
+    "word3": "ill",
+    "word4": "lid"
+  },
+  {
+    "level_id": 83,
+    "phrase": "idevo",
+    "word1": "dive",
+    "word2": "die",
+    "word3": "vide",
+    "word4": "void"
+  },
+  {
+    "level_id": 84,
+    "phrase": "irtisf",
+    "word1": "first",
+    "word2": "fit",
+    "word3": "sit",
+    "word4": "iris"
+  },
+  {
+    "level_id": 85,
+    "phrase": "hewer",
+    "word1": "where",
+    "word2": "here",
+    "word3": "ewer",
+    "word4": ""
+  },
+  {
+    "level_id": 86,
+    "phrase": "rdoer",
+    "word1": "err",
+    "word2": "order",
+    "word3": "red",
+    "word4": "doe"
+  },
+  {
+    "level_id": 87,
+    "phrase": "arpt",
+    "word1": "art",
+    "word2": "part",
+    "word3": "trap",
+    "word4": "tap"
+  },
+  {
+    "level_id": 88,
+    "phrase": "inle",
+    "word1": "lien",
+    "word2": "lie",
+    "word3": "line",
+    "word4": "nile"
+  },
+  {
+    "level_id": 89,
+    "phrase": "aket",
+    "word1": "teak",
+    "word2": "take",
+    "word3": "eat",
+    "word4": "tea"
+  },
+  {
+    "level_id": 90,
+    "phrase": "odec",
+    "word1": "do",
+    "word2": "ode",
+    "word3": "doe",
+    "word4": "code"
+  },
+  {
+    "level_id": 91,
+    "phrase": "peon",
+    "word1": "nope",
+    "word2": "pen",
+    "word3": "open",
+    "word4": "one"
+  },
+  {
+    "level_id": 92,
+    "phrase": "tores",
+    "word1": "rose",
+    "word2": "store",
+    "word3": "sort",
+    "word4": "toe"
+  },
+  {
+    "level_id": 93,
+    "phrase": "amrda",
+    "word1": "arm",
+    "word2": "dam",
+    "word3": "mad",
+    "word4": "drama"
+  },
+  {
+    "level_id": 94,
+    "phrase": "eignbe",
+    "word1": "genie",
+    "word2": "gibe",
+    "word3": "begin",
+    "word4": "being"
+  },
+  {
+    "level_id": 95,
+    "phrase": "oudnf",
+    "word1": "fund",
+    "word2": "found",
+    "word3": "duo",
+    "word4": "fun"
+  },
+  {
+    "level_id": 96,
+    "phrase": "apepl",
+    "word1": "apple",
+    "word2": "leap",
+    "word3": "peal",
+    "word4": "plea"
+  },
+  {
+    "level_id": 97,
+    "phrase": "ousesh",
+    "word1": "souse",
+    "word2": "house",
+    "word3": "shoe",
+    "word4": "hose"
+  },
+  {
+    "level_id": 98,
+    "phrase": "hopot",
+    "word1": "hop",
+    "word2": "pot",
+    "word3": "photo",
+    "word4": "top"
+  },
+  {
+    "level_id": 99,
+    "phrase": "owrepr",
+    "word1": "roper",
+    "word2": "owe",
+    "word3": "pore",
+    "word4": "power"
+  },
+  {
+    "level_id": 100,
+    "phrase": "ionj",
+    "word1": "join",
+    "word2": "no",
+    "word3": "in",
+    "word4": "on"
+  }
+]

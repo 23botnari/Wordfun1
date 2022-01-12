@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="8dp">
+
+    <ImageView
+        android:id="@+id/basic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/box_level"
+        android:adjustViewBounds="true" />
+
+    <ImageView
+        android:id="@+id/lock_basic"
+        android:layout_width="@dimen/word_big"
+        android:layout_height="@dimen/word_big"
+        android:adjustViewBounds="true"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_lock" />
+
+    <TextView
+        android:id="@+id/level_basic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:fontFamily="@font/baloo_chettan"
+        android:text="1"
+        android:textColor="@color/yellow"
+        android:textSize="@dimen/word_big" />
+</RelativeLayout>

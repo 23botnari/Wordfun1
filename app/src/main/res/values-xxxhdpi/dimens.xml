@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="word_w">38dp</dimen>
+    <dimen name="word_big">43dp</dimen>
+    <dimen name="txt_setting">32dp</dimen>
+    <dimen name="radius">210dp</dimen>
+    <dimen name="text">7dp</dimen>
+    <dimen name="button">60dp</dimen>
+    <dimen name="button_s">50dp</dimen>
+    <dimen name="button_bg">44dp</dimen>
+    <dimen name="button_text">20dp</dimen>
+    <dimen name="button_dollar">32dp</dimen>
+    <dimen name="margin_dollar">28dp</dimen>
+</resources>

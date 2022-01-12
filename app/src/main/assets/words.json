@@ -1,0 +1,802 @@
+[
+  {
+    "level_id": 1,
+    "phrase": "isre",
+    "word1": "sir",
+    "word2": "rise",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 2,
+    "phrase": "owgr",
+    "word1": "go",
+    "word2": "grow",
+    "word3": "row",
+    "word4": ""
+  },
+  {
+    "level_id": 3,
+    "phrase": "enpin",
+    "word1": "nine",
+    "word2": "pen",
+    "word3": "pie",
+    "word4": ""
+  },
+  {
+    "level_id": 4,
+    "phrase": "ogf",
+    "word1": "fog",
+    "word2": "of",
+    "word3": "go",
+    "word4": ""
+  },
+  {
+    "level_id": 5,
+    "phrase": "efli",
+    "word1": "life",
+    "word2": "lief",
+    "word3": "lie",
+    "word4": "file"
+  },
+  {
+    "level_id": 6,
+    "phrase": "sapspa",
+    "word1": "spa",
+    "word2": "pass",
+    "word3": "papa",
+    "word4": ""
+  },
+  {
+    "level_id": 7,
+    "phrase": "efsluu",
+    "word1": "useful",
+    "word2": "fuel",
+    "word3": "self",
+    "word4": ""
+  },
+  {
+    "level_id": 8,
+    "phrase": "rushb",
+    "word1": "hub",
+    "word2": "brush",
+    "word3": "rush",
+    "word4": ""
+  },
+  {
+    "level_id": 9,
+    "phrase": "imdnia",
+    "word1": "maid",
+    "word2": "aim",
+    "word3": "india",
+    "word4": ""
+  },
+  {
+    "level_id": 10,
+    "phrase": "amrda",
+    "word1": "arm",
+    "word2": "dam",
+    "word3": "mad",
+    "word4": "drama"
+  },
+  {
+    "level_id": 11,
+    "phrase": "moylgo",
+    "word1": "gloom",
+    "word2": "log",
+    "word3": "my",
+    "word4": ""
+  },
+  {
+    "level_id": 12,
+    "phrase": "mctcio",
+    "word1": "comic",
+    "word2": "",
+    "word3": "omit",
+    "word4": ""
+  },
+  {
+    "level_id": 13,
+    "phrase": "eacr",
+    "word1": "ace",
+    "word2": "acre",
+    "word3": "care",
+    "word4": "race"
+  },
+  {
+    "level_id": 14,
+    "phrase": "intap",
+    "word1": "paint",
+    "word2": "pin",
+    "word3": "pain",
+    "word4": "nap"
+  },
+  {
+    "level_id": 15,
+    "phrase": "tare",
+    "word1": "rate",
+    "word2": "ear",
+    "word3": "tea",
+    "word4": "tear"
+  },
+  {
+    "level_id": 16,
+    "phrase": "roeh",
+    "word1": "or",
+    "word2": "her",
+    "word3": "hero",
+    "word4": ""
+  },
+  {
+    "level_id": 17,
+    "phrase": "aetm",
+    "word1": "team",
+    "word2": "eat",
+    "word3": "meat",
+    "word4": "tea"
+  },
+  {
+    "level_id": 18,
+    "phrase": "ackb",
+    "word1": "cab",
+    "word2": "back",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 19,
+    "phrase": "alyp",
+    "word1": "pay",
+    "word2": "play",
+    "word3": "lay",
+    "word4": ""
+  },
+  {
+    "level_id": 20,
+    "phrase": "inewn",
+    "word1": "new",
+    "word2": "nine",
+    "word3": "win",
+    "word4": "wine"
+  },
+  {
+    "level_id": 21,
+    "phrase": "moec",
+    "word1": "me",
+    "word2": "come",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 22,
+    "phrase": "ameg",
+    "word1": "age",
+    "word2": "game",
+    "word3": "me",
+    "word4": ""
+  },
+  {
+    "level_id": 23,
+    "phrase": "ngos",
+    "word1": "go",
+    "word2": "song",
+    "word3": "son",
+    "word4": ""
+  },
+  {
+    "level_id": 24,
+    "phrase": "atiwt",
+    "word1": "twit",
+    "word2": "wait",
+    "word3": "at",
+    "word4": ""
+  },
+  {
+    "level_id": 25,
+    "phrase": "npik",
+    "word1": "ink",
+    "word2": "pink",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 26,
+    "phrase": "aryp",
+    "word1": "rap",
+    "word2": "ray",
+    "word3": "pray",
+    "word4": ""
+  },
+  {
+    "level_id": 27,
+    "phrase": "aebt",
+    "word1": "beat",
+    "word2": "bet",
+    "word3": "tab",
+    "word4": ""
+  },
+  {
+    "level_id": 28,
+    "phrase": "aops",
+    "word1": "soap",
+    "word2": "spa",
+    "word3": "sap",
+    "word4": ""
+  },
+  {
+    "level_id": 29,
+    "phrase": "olws",
+    "word1": "owl",
+    "word2": "slow",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 30,
+    "phrase": "arwda",
+    "word1": "award",
+    "word2": "draw",
+    "word3": "war",
+    "word4": ""
+  },
+  {
+    "level_id": 31,
+    "phrase": "aemrdr",
+    "word1": "dream",
+    "word2": "dear",
+    "word3": "read",
+    "word4": "rear"
+  },
+  {
+    "level_id": 32,
+    "phrase": "aolg",
+    "word1": "ago",
+    "word2": "goal",
+    "word3": "goa",
+    "word4": ""
+  },
+  {
+    "level_id": 33,
+    "phrase": "henw",
+    "word1": "hew",
+    "word2": "when",
+    "word3": "new",
+    "word4": "we"
+  },
+  {
+    "level_id": 34,
+    "phrase": "lablb",
+    "word1": "all",
+    "word2": "ball",
+    "word3": "blab",
+    "word4": ""
+  },
+  {
+    "level_id": 35,
+    "phrase": "nakr",
+    "word1": "ark",
+    "word2": "rank",
+    "word3": "an",
+    "word4": ""
+  },
+  {
+    "level_id": 36,
+    "phrase": "eadr",
+    "word1": "era",
+    "word2": "read",
+    "word3": "dear",
+    "word4": ""
+  },
+  {
+    "level_id": 37,
+    "phrase": "aslt",
+    "word1": "salt",
+    "word2": "slat",
+    "word3": "last",
+    "word4": ""
+  },
+  {
+    "level_id": 38,
+    "phrase": "rifa",
+    "word1": "far",
+    "word2": "air",
+    "word3": "fair",
+    "word4": ""
+  },
+  {
+    "level_id": 39,
+    "phrase": "wond",
+    "word1": "now",
+    "word2": "own",
+    "word3": "won",
+    "word4": "down"
+  },
+  {
+    "level_id": 40,
+    "phrase": "stae",
+    "word1": "seat",
+    "word2": "set",
+    "word3": "ate",
+    "word4": "east"
+  },
+  {
+    "level_id": 41,
+    "phrase": "oentse",
+    "word1": "stone",
+    "word2": "tense",
+    "word3": "nose",
+    "word4": ""
+  },
+  {
+    "level_id": 42,
+    "phrase": "eswt",
+    "word1": "west",
+    "word2": "wet",
+    "word3": "set",
+    "word4": "we"
+  },
+  {
+    "level_id": 43,
+    "phrase": "aiml",
+    "word1": "aim",
+    "word2": "am",
+    "word3": "mail",
+    "word4": ""
+  },
+  {
+    "level_id": 44,
+    "phrase": "oevel",
+    "word1": "leo",
+    "word2": "eve",
+    "word3": "love",
+    "word4": ""
+  },
+  {
+    "level_id": 45,
+    "phrase": "aekp",
+    "word1": "ape",
+    "word2": "peak",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 46,
+    "phrase": "preapa",
+    "word1": "paper",
+    "word2": "area",
+    "word3": "papa",
+    "word4": ""
+  },
+  {
+    "level_id": 47,
+    "phrase": "ypet",
+    "word1": "pet",
+    "word2": "yet",
+    "word3": "type",
+    "word4": ""
+  },
+  {
+    "level_id": 48,
+    "phrase": "lrvee",
+    "word1": "ever",
+    "word2": "lever",
+    "word3": "reel",
+    "word4": ""
+  },
+  {
+    "level_id": 49,
+    "phrase": "ityc",
+    "word1": "it",
+    "word2": "tic",
+    "word3": "city",
+    "word4": ""
+  },
+  {
+    "level_id": 50,
+    "phrase": "doof",
+    "word1": "food",
+    "word2": "of",
+    "word3": "do",
+    "word4": ""
+  },
+  {
+    "level_id": 51,
+    "phrase": "airyd",
+    "word1": "diary",
+    "word2": "dry",
+    "word3": "yard",
+    "word4": "dairy"
+  },
+  {
+    "level_id": 52,
+    "phrase": "aertat",
+    "word1": "treat",
+    "word2": "art",
+    "word3": "attar",
+    "word4": ""
+  },
+  {
+    "level_id": 53,
+    "phrase": "orkw",
+    "word1": "work",
+    "word2": "row",
+    "word3": "or",
+    "word4": ""
+  },
+  {
+    "level_id": 54,
+    "phrase": "stoper",
+    "word1": "pot",
+    "word2": "poster",
+    "word3": "sport",
+    "word4": "store"
+  },
+  {
+    "level_id": 55,
+    "phrase": "ierfnd",
+    "word1": "friend",
+    "word2": "ride",
+    "word3": "fire",
+    "word4": "fried"
+  },
+  {
+    "level_id": 56,
+    "phrase": "hitkn",
+    "word1": "hint",
+    "word2": "hit",
+    "word3": "think",
+    "word4": "ink"
+  },
+  {
+    "level_id": 57,
+    "phrase": "alkcb",
+    "word1": "lack",
+    "word2": "back",
+    "word3": "black",
+    "word4": "lab"
+  },
+  {
+    "level_id": 58,
+    "phrase": "amref",
+    "word1": "fear",
+    "word2": "fame",
+    "word3": "frame",
+    "word4": "fare"
+  },
+  {
+    "level_id": 59,
+    "phrase": "oldad",
+    "word1": "old",
+    "word2": "load",
+    "word3": "add",
+    "word4": "odd"
+  },
+  {
+    "level_id": 60,
+    "phrase": "oudlw",
+    "word1": "would",
+    "word2": "owl",
+    "word3": "loud",
+    "word4": "duo"
+  },
+  {
+    "level_id": 61,
+    "phrase": "alblb",
+    "word1": "all",
+    "word2": "ball",
+    "word3": "blab",
+    "word4": "lab"
+  },
+  {
+    "level_id": 62,
+    "phrase": "ince",
+    "word1": "ice",
+    "word2": "nice",
+    "word3": "in",
+    "word4": ""
+  },
+  {
+    "level_id": 63,
+    "phrase": "irtd",
+    "word1": "it",
+    "word2": "dirt",
+    "word3": "id",
+    "word4": ""
+  },
+  {
+    "level_id": 64,
+    "phrase": "tukcs",
+    "word1": "cut",
+    "word2": "stuck",
+    "word3": "suck",
+    "word4": ""
+  },
+  {
+    "level_id": 65,
+    "phrase": "etmi",
+    "word1": "item",
+    "word2": "time",
+    "word3": "met",
+    "word4": ""
+  },
+  {
+    "level_id": 66,
+    "phrase": "onsw",
+    "word1": "now",
+    "word2": "own",
+    "word3": "snow",
+    "word4": "son"
+  },
+  {
+    "level_id": 67,
+    "phrase": "elwl",
+    "word1": "ell",
+    "word2": "well",
+    "word3": "we",
+    "word4": ""
+  },
+  {
+    "level_id": 68,
+    "phrase": "asgsl",
+    "word1": "slag",
+    "word2": "lag",
+    "word3": "glass",
+    "word4": "gas"
+  },
+  {
+    "level_id": 69,
+    "phrase": "eedn",
+    "word1": "eden",
+    "word2": "end",
+    "word3": "need",
+    "word4": ""
+  },
+  {
+    "level_id": 70,
+    "phrase": "ormw",
+    "word1": "mow",
+    "word2": "row",
+    "word3": "worm",
+    "word4": ""
+  },
+  {
+    "level_id": 71,
+    "phrase": "likcc",
+    "word1": "click",
+    "word2": "lick",
+    "word3": "",
+    "word4": ""
+  },
+  {
+    "level_id": 72,
+    "phrase": "onemy",
+    "word1": "one",
+    "word2": "money",
+    "word3": "men",
+    "word4": "omen"
+  },
+  {
+    "level_id": 73,
+    "phrase": "orldw",
+    "word1": "lord",
+    "word2": "owl",
+    "word3": "world",
+    "word4": "word"
+  },
+  {
+    "level_id": 74,
+    "phrase": "aphpay",
+    "word1": "hap",
+    "word2": "happy",
+    "word3": "pay",
+    "word4": "ayah"
+  },
+  {
+    "level_id": 75,
+    "phrase": "lorfew",
+    "word1": "wolf",
+    "word2": "flower",
+    "word3": "owe",
+    "word4": "flew"
+  },
+  {
+    "level_id": 76,
+    "phrase": "onwk",
+    "word1": "know",
+    "word2": "now",
+    "word3": "won",
+    "word4": "own"
+  },
+  {
+    "level_id": 77,
+    "phrase": "drildl",
+    "word1": "drill",
+    "word2": "did",
+    "word3": "ill",
+    "word4": "lid"
+  },
+  {
+    "level_id": 78,
+    "phrase": "idevo",
+    "word1": "dive",
+    "word2": "die",
+    "word3": "void",
+    "word4": ""
+  },
+  {
+    "level_id": 79,
+    "phrase": "irtsif",
+    "word1": "first",
+    "word2": "fit",
+    "word3": "sit",
+    "word4": "iris"
+  },
+  {
+    "level_id": 80,
+    "phrase": "hewer",
+    "word1": "where",
+    "word2": "here",
+    "word3": "ewer",
+    "word4": ""
+  },
+  {
+    "level_id": 81,
+    "phrase": "rdoer",
+    "word1": "err",
+    "word2": "order",
+    "word3": "red",
+    "word4": "doe"
+  },
+  {
+    "level_id": 82,
+    "phrase": "aysd",
+    "word1": "say",
+    "word2": "day",
+    "word3": "sad",
+    "word4": ""
+  },
+  {
+    "level_id": 83,
+    "phrase": "arpt",
+    "word1": "art",
+    "word2": "part",
+    "word3": "trap",
+    "word4": "tap"
+  },
+  {
+    "level_id": 84,
+    "phrase": "inle",
+    "word1": "lien",
+    "word2": "lie",
+    "word3": "line",
+    "word4": "nile"
+  },
+  {
+    "level_id": 85,
+    "phrase": "ensde",
+    "word1": "send",
+    "word2": "seed",
+    "word3": "need",
+    "word4": "eden"
+  },
+  {
+    "level_id": 86,
+    "phrase": "aket",
+    "word1": "teak",
+    "word2": "take",
+    "word3": "eat",
+    "word4": "tea"
+  },
+  {
+    "level_id": 87,
+    "phrase": "uselcm",
+    "word1": "clue",
+    "word2": "muscle",
+    "word3": "slum",
+    "word4": "use"
+  },
+  {
+    "level_id": 88,
+    "phrase": "uorpg",
+    "word1": "go",
+    "word2": "group",
+    "word3": "our",
+    "word4": "pug"
+  },
+  {
+    "level_id": 89,
+    "phrase": "arcesh",
+    "word1": "cash",
+    "word2": "search",
+    "word3": "reach",
+    "word4": "sea"
+  },
+  {
+    "level_id": 90,
+    "phrase": "ihcll",
+    "word1": "ill",
+    "word2": "hill",
+    "word3": "chill",
+    "word4": ""
+  },
+  {
+    "level_id": 91,
+    "phrase": "nderu",
+    "word1": "rude",
+    "word2": "under",
+    "word3": "run",
+    "word4": "due"
+  },
+  {
+    "level_id": 92,
+    "phrase": "odec",
+    "word1": "do",
+    "word2": "ode",
+    "word3": "doe",
+    "word4": "code"
+  },
+  {
+    "level_id": 93,
+    "phrase": "igns",
+    "word1": "sing",
+    "word2": "sign",
+    "word3": "in",
+    "word4": ""
+  },
+  {
+    "level_id": 94,
+    "phrase": "otehl",
+    "word1": "hole",
+    "word2": "hot",
+    "word3": "hotel",
+    "word4": "let"
+  },
+  {
+    "level_id": 95,
+    "phrase": "eferv",
+    "word1": "free",
+    "word2": "ever",
+    "word3": "fee",
+    "word4": "fever"
+  },
+  {
+    "level_id": 96,
+    "phrase": "peon",
+    "word1": "nope",
+    "word2": "pen",
+    "word3": "open",
+    "word4": "one"
+  },
+  {
+    "level_id": 97,
+    "phrase": "tores",
+    "word1": "rose",
+    "word2": "store",
+    "word3": "sort",
+    "word4": "toe"
+  },
+  {
+    "level_id": 98,
+    "phrase": "oeplep",
+    "word1": "peep",
+    "word2": "people",
+    "word3": "pole",
+    "word4": "peel"
+  },
+  {
+    "level_id": 99,
+    "phrase": "asec",
+    "word1": "sea",
+    "word2": "case",
+    "word3": "ace",
+    "word4": ""
+  },
+  {
+    "level_id": 100,
+    "phrase": "othb",
+    "word1": "both",
+    "word2": "bot",
+    "word3": "hot",
+    "word4": ""
+  }
+]

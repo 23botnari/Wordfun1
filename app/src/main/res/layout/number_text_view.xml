@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:textColor="@color/brown"
+    android:textSize="24sp"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:text="V"
+    android:fontFamily="@font/baloo_chettan"
+    android:textAllCaps="true"
+    android:background="@drawable/box_wordselect"/>
